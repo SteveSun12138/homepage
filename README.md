@@ -1,4 +1,4 @@
-# stevesun.github.io
+# Guoqin Sun's HomePage
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -11,17 +11,8 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Guoqin Sun's HomePage</h3>
+  <h2 align="center">Guoqin Sun's HomePage</h2>
 
-  <p align="center">
-    A project means to introduce myself
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://stevesun12138.github.io/homepage/">View Demo</a>
-    
-  </p>
 </div>
 
 
@@ -59,7 +50,7 @@ The project is meant to help us be familiar with HTML, CSS, BootStrap, and all o
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+I used the Bootstrap template for this project.
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
@@ -115,3 +106,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[product-screenshot]: assets/img/screen.gif
