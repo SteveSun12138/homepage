@@ -62,12 +62,10 @@ I used the Bootstrap template for this project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -97,8 +95,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Video Link
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
+<a href="https://www.youtube.com/watch?v=IOnEeif5Nxw">https://www.youtube.com/watch?v=IOnEeif5Nxw</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
