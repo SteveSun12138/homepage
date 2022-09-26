@@ -67,3 +67,38 @@
   
   })(jQuery); // End of use strict
   
+var timer;
+var ele = document.getElementById('timer');
+
+(function (){
+  var sec = 0;
+  var min = 0;
+  timer = setInterval(()=>{
+    if (min < 10) {
+      if (sec < 10) {
+        ele.innerHTML = '0' + min + ':0' + sec;
+      } else {
+        ele.innerHTML = '0' + min + ':' + sec;
+      }
+      if (sec == 59) {
+        sec = 0;
+        min++;
+      }
+    } else {
+      if (sec < 10) {
+        ele.innerHTML = min + ':0' + sec;
+      } else {
+        ele.innerHTML = min + ':' + sec;
+      }
+      if (sec == 59) {
+        sec = 0;
+        min++;
+      }
+    }
+    if (min == 59 && sec == 59) {
+      min = 0;
+      sec = 0;
+    }
+    sec++;
+  }, 1000)
+})()
