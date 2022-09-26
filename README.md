@@ -1,5 +1,4 @@
 # Guoqin Sun's HomePage
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -43,7 +42,7 @@ The class is 5610 Web Development. <a href="https://stevesun12138.github.io/home
 
 ## Project Objective
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://stevesun12138.github.io/homepage/)
 
 The project is meant to help us be familiar with HTML, CSS, BootStrap, and all other coding style staffs. We not only need to complete the code, but also need to run the code with no error, present slides, and videos.
 
