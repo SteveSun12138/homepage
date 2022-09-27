@@ -1,10 +1,8 @@
 # Guoqin Sun's HomePage
+
 <a name="readme-top"></a>
 
-
 [![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,8 +11,6 @@
   <h2 align="center">Guoqin Sun's HomePage</h2>
 
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -32,11 +28,13 @@
 </details>
 
 ## Author
+
 The author is Guoqin Sun
 
 ## Class Link
+
 Here is the link of this project.
- <a href="https://stevesun12138.github.io/homepage/">Project Website Link</a>
+<a href="https://stevesun12138.github.io/homepage/">Project Website Link</a>
 
 The class is 5610 Web Development. <a href="https://stevesun12138.github.io/homepage/">5610 Class Link</a>
 
@@ -46,25 +44,19 @@ The class is 5610 Web Development. <a href="https://stevesun12138.github.io/home
 
 The project is meant to help us be familiar with HTML, CSS, BootStrap, and all other coding style staffs. We not only need to complete the code, but also need to run the code with no error, present slides, and videos.
 
-
 ### Built With
 
 I used the Bootstrap template for this project.
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
+- [![Bootstrap][bootstrap.com]][bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
-
-
 ### Installation
-
 
 1. Clone the repo
    ```sh
@@ -78,20 +70,16 @@ I used the Bootstrap template for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Video Link
 
 <a href="https://www.youtube.com/watch?v=IOnEeif5Nxw">https://www.youtube.com/watch?v=IOnEeif5Nxw</a>
@@ -100,6 +88,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com
 [product-screenshot]: assets/img/screen.gif
